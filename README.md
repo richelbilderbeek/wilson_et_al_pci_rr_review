@@ -7,7 +7,54 @@ My stage 1 review of the PCI registered rebort by Wilson et al.
  * Converted PDF to txt using [PDF Candy](https://pdfcandy.com/extract-text.html)
  * Added layout elements (such as headers) myself
 
+## Review
+
+Verdict: Accepted.
+
+I have read this pre-registration with much pleasure,
+without encountering unexpected surprises: the suggested
+research seems useful and the methods straightforward.
+
+I did find some minor suggestions and worries, yet nothing to slow down this study.
+Below I list these, formatted as [richelbilderbeek: my comment]. 
+A better-formatted version can be found at https://github.com/richelbilderbeek/wilson_et_al_pci_rr_review .
+
+I wish the authors good luck in doing this study!
+
+Cheers, Richel Bilderbeek
+
+## Criteria
+
+> 1A. The scientific validity of the research question(s). This criterion addresses the extent to which the research question is scientifically justifiable. Valid scientific questions usually stem from theory or mathematics, an intended or possible application, or an existing evidence base, and should be defined with sufficient precision as to be answerable through quantitative or qualitative research. They should also fall within established ethical norms. Note that subjective judgments about the importance, novelty or timeliness of a research question are NOT a relevant criterion at PCI RR and do not form part of this assessment.
+
+I am convinved that this is a valid research question.
+
+> 1B. The logic, rationale, and plausibility of the proposed hypotheses, as applicable. This criterion addresses the coherence and credibility of any a priori hypotheses. The inclusion of hypotheses is not required– a Stage 1 RR can instead propose estimation or measurement of phenomena without expecting a specific observation or relationship between variables. However, where hypotheses are stated, they should be stated as precisely as possible and follow directly from the research question or theory. A Stage 1 RR should also propose a hypothesis that is sufficiently conceivable as to be worthy of investigation. The complete evaluation of any preliminary research (and data) in the Stage 1 submission (see Section 2.7) is included within this criterion.
+
+Not applicable, this is a study that measures aspects of reviews.
+
+> 1C. The soundness and feasibility of the methodology and analysis pipeline (including statistical power analysis or alternative sampling plans where applicable). This criterion assesses the validity of the study procedures and analyses, including the presence of critical design features (e.g. internal and external validity, blinding, randomisation, rules for data inclusion and exclusion, suitability of any included pilot data) and the appropriateness of the analysis plan. For designs involving inferential statistics and hypothesis-testing, this criterion includes the rigour of the proposed sampling plan, such as a statistical power analysis or Bayesian alternative, and, where applicable, the rationale for defining any statistical priors or the smallest effect size of interest. For programmatic RRs (see Section 2.15), this criterion captures the assessment of whether the separate study components are sufficiently robust and substantive to justify separate Stage 2 outputs.
+
+I am moderately convinced of the soundness and feasibility of the methods in this study.
+
+I use 'moderately' as I wonder (1) how many reviews there are approximately and (2) how
+long it approximately takes for a person to do one review. 
+I assume this simple calculation has been done, yet I would appreciate to see
+it in the paper.
+
+> 1D. Whether the clarity and degree of methodological detail is sufficient to closely replicate the proposed study procedures and analysis pipeline and to prevent undisclosed flexibility in the procedures and analyses. This criterion assesses the extent to which the Stage 1 protocol contains sufficient detail to be reproducible and ensure protection against research bias, such as analytic overfitting or vague study procedures. In general, meeting this requirement will require the method section(s) of a Stage 1 protocol to be significantly longer and more detailed than in a regular manuscript, while also being clearly structured and accessible to readers. This criterion also covers the extent to which the protocol specifies precise and exhaustive links between the research question(s), hypotheses (where applicable), sampling plans (where applicable), analysis plans, and contingent interpretation given different outcomes. Authors are strongly encouraged to include a design summary table in their Stage 1 protocols that make these links clear (see Section 2.16 for examples). Note that in some circumstances, authors may wish to propose a more general analysis plan involving a blinded analyst rather than a precise specification of data analyses. Such submissions are acceptable and will meet this criterion provided the blinded analysis procedure is specified in reproducible detail, and provided the blinding procedure itself is sufficiently robust.
+
+I am convinced that the methods are clear.
+
+> 1E. Whether the authors have considered sufficient outcome-neutral conditions (e.g. absence of floor or ceiling effects; positive controls; other quality checks) for ensuring that the obtained results are able to test the stated hypotheses or answer the stated research question(s). This criterion addresses, where applicable, the extent to which the proposal pre-specifies data quality checks that will reveal whether the results are able to answer the research question(s). Such tests come in many forms and, depending on the design or subject area, are not always possible or appropriate. Where they are proposed they must be pre-specified and “outcome-neutral”, meaning that they are designed prior to knowledge of the results and are independent of the main study hypotheses. In experimental studies, such tests often consist of positive controls (also referred to in different fields as “manipulation checks” or tests of “intervention fidelity”). In observational studies they might include parallel measurements to replicate an established fact, thus confirming that the design or instrumentation is sufficiently sensitive to detect the existence of the phenomenon that forms the main focus of the research. This 1993 study which used the Galileo spacecraft to search for signs of life on Earth provides a signature example of a positive control.
+
+I am convinced that the outcome is neutral.
+
 # Umbrella review of ASD animal models: A Stage 1 Registered
+
+[richelbilderbeek: this is the paper by Wilson et al., converted by PDF Candy to text, then
+by me to proper markdown. I did not do all the formatting: especially the tables in
+the appendix are left as-is]
 
 ## Report
 
@@ -78,7 +125,7 @@ summarise the focus of these reviews, and (3) assess the quality of reporting of
 ### Search strategy
 
 We will search NCBI PubMed, Ovid Embase, and Web of Science to identify systematic reviews of
-animal models which use manipulations of 102 genes [richelbilderbeek: how were these genes determined?] for which there is high confidence in a causal
+animal models which use manipulations of 102 genes for which there is high confidence in a causal
 relationship to ASD. We will place no restriction on publication date or language.
 
 
@@ -96,8 +143,6 @@ We will not conduct a meta-analysis. We will present a descriptive summary of da
 each included systematic review and score each included review against the adapted PRISMA
 checklist.
 
- * [richelbilderbeek: so the goal is to measure how well the PRISMA checklist is used in systematic reviews?]
-
 ## Keywords
 
 Umbrella review; Evidence synthesis; Autism; Intellectual disability; Animal models
@@ -109,21 +154,15 @@ Umbrella review; Evidence synthesis; Autism; Intellectual disability; Animal mod
    and screen studies based on full text to avoid erroneously excluding systematic reviews
    which do not report their inclusion criteria in their abstract.
 
-[richelbilderbeek: reporting inclusing criteria is item 3 on 
-https://www.prisma-statement.org/documents/PRISMA_2020_abstract_checklist.pdf
-and surely it should be detected if this criterium is present/absent.
-I think using the full text to detect this is very cool]
-
  * We will use a draft extension of the PRISMA guidelines specifically designed for systematic
    reviews of animal studies, to assess the reporting quality of included systematic reviews.
-
-[richelbilderbeek: I would enjoy to see that draft]
 
  * This extension remains in draft, is not yet an official extension to PRISMA and may be subject
    to change.
 
-[richelbilderbeek: what happens to changes in that draft? Will the research be repeated
-each change in that draft?]
+[richelbilderbeek: I would enjoy to know what happens when this draft is changed during this research?
+I assume that the draft is kept as-is during this research and it may only change when
+becoming a PRISMA standard]
 
 ## Abbreviations
 
@@ -319,12 +358,34 @@ We will not conduct a meta-analysis. However, we will present a descriptive summ
 extracted from each included systematic review.
 
 We will present bibliographic details of each included systematic review and provide a narrative
-review of each review’s research question and aim. We will then score each included systematic
+review of each review’s research question and aim [richelbilderbeek: I enjoy the enthusiasm
+here, but I see no reason why to provide this narrative. I would enjoy to see why this narrative
+is provided, especially as the checklist already contain quite some 'describe X' items]. 
+We will then score each included systematic
 review using the PRISMA modified reporting checklist and provide a summary table detailing which
-items of the checklist each review met. Additionally, the checklist will allow us to assess which tools
+items of the checklist each review met. 
+Additionally, the checklist will allow us to assess which tools
 are currently being used to conduct systematic reviews in this field, including the tools used to
 screen studies (Checklist Item 6a), extract numerical data (Checklist Item 17a), and measure study
 quality or risk of bias (Checklist Item 19).
+
+ * [richelbilderbeek: I would enjoy to see some example table here, like:
+
+Study          |Narrative
+---------------|--------------
+A et al., 1234 |Focuses on fish
+B et al., 2020 |Focus on tools used
+.              |.
+
+and
+
+Study          |Checklist item|Follows item?
+---------------|--------------|-------------
+A et al., 1234 |             1|Yes
+A et al., 1234 |             2|No
+.              |             .|.
+
+]
 
 ## Data availability
 
@@ -1196,7 +1257,7 @@ Web of Science OR Google OR Scopus OR BIOSIS)))
 This checklist is taken from Hunniford et al., 2021.
 
 Section|Index|Item
--------|-----|--------
+-------|-----|------------------------------------------------
 Title  |1    |Identify the report as systematic review in title
 .      |2    |Identify that the report contains animal data in title (preclinical, in vivo or synonym)
 Intro  |3    |Describe the human condition being modelled (e.g. describe what is already known)
@@ -1204,90 +1265,32 @@ Intro  |3    |Describe the human condition being modelled (e.g. describe what is
 .      |5    |Provide an explicit statement of the question(s) the review addresses (specify the main objectives of the review, ideally in PICO format)
 Methods|6    |Indicate whether a review protocol was registered a priori
 .      |a    |Where can the protocol be accessed and indicate the name of the protocol registry OR state that it is not available
-
-b
-Indicate any deviations from the protocol OR that there were no deviations
-7
-Eligibility criteria: Describe the animal species to be included in the review
-(e.g. only mice, vertebrates, large animals)
-8
-Eligibility criteria: Describe the animal model to be included in the review
-(methods of disease induction, age, sex, etc.)
-
-9
-Eligibility criteria: Describe the intervention/exposure of interest
-10
-Eligibility criteria: Describe the comparators and/or control population
-11
-Eligibility criteria: Describe the primary outcomes of interest (what is being
-measured/assessed in primary studies)
-12
-Eligibility criteria: Describe the timing (prevention vs rescue) of intervention,
-IF applicable
-13
-Indicate where a full search strategy of all data bases OR representative
-search strategy can be accessed
-14
-Describe inclusion limits (years conducted, language, AND publication type)
-15
-Describe the study screening/selection process
-a
-Report the platform used to screen and select studies (Excel, Access,
-DistillerSR, SyRF)
-16
-State the number of independent screeners
-17
-Describe methods for extracting numerical data from reports (e.g. data in bar
-graph, or non-text presentation), IF applicable *
-a
-Report the platform and tools used to extract numerical data (Graph2data,
-Engauge)
-18
-Report number of independent reviewers extracting data
-19
-Describe methods and tool used to measure study quality/risk of bias in
-individual studies (e.g. SYRCLE tool, CAMARADES tool)
-20
-Describe methods to assess construct validity in individual studies
-21
-Describe methods for assessing publication bias of included studies, IF
-applicable
-22
-Describe methods for synthesizing the quantitative effect measures of
-included studies (e.g. risk ratio, mean difference), IF applicable *
-23
-Describe methods for any data transformation needed to make extracted
-data suitable for analysis (e.g. only sample size range), IF applicable *
-24
-Describe methods for handling shared control groups (common issue in
-analysis of preclinical studies), IF applicable *
-26
-
-25
-Describe methods for assessing heterogeneity between individual studies, IF
-applicable *
-26
-Describe methods for handling effect sizes over multiple time points (e.g.
-
-used all time points or latest time point), IF applicable *
-27
-Describe methods for sub-group and sensitivity analysis, IF applicable *
-
-
-### Results
-
-28
-
-Report the number of included reports (individual references/publication)
-included in the review
-
-a
-Provides a list or table of individual studies with data or references
-29
-Report the number of eligible experiments included in the analysis (eligible
-animal experiments in individual reports)
-30
-Include a PRISMA flow diagram (or equivalent) of study selection process
+.      |b    |Indicate any deviations from the protocol OR that there were no deviations
+.      |7    |Eligibility criteria: Describe the animal species to be included in the review (e.g. only mice, vertebrates, large animals)
+.      |8    |Eligibility criteria: Describe the animal model to be included in the review (methods of disease induction, age, sex, etc.)
+.      |9    |Eligibility criteria: Describe the intervention/exposure of interest
+.      |10   |Eligibility criteria: Describe the comparators and/or control population
+.      |11   |Eligibility criteria: Describe the primary outcomes of interest (what is being measured/assessed in primary studies)
+.      |12   |Eligibility criteria: Describe the timing (prevention vs rescue) of intervention, IF applicable
+.      |13   |Indicate where a full search strategy of all data bases OR representative search strategy can be accessed
+.      |14   |Describe inclusion limits (years conducted, language, AND publication type)
+.      |15   |Describe the study screening/selection process a Report the platform used to screen and select studies (Excel, Access, DistillerSR, SyRF)
+.      |16   |State the number of independent screeners
+.      |17   |Describe methods for extracting numerical data from reports (e.g. data in bar graph, or non-text presentation), IF applicable * a Report the platform and tools used to extract numerical data (Graph2data, Engauge)
+.      |18   |Report number of independent reviewers extracting data
+.      |19   |Describe methods and tool used to measure study quality/risk of bias in individual studies (e.g. SYRCLE tool, CAMARADES tool)
+.      |20   |Describe methods to assess construct validity in individual studies
+.      |21   |Describe methods for assessing publication bias of included studies, IF applicable
+.      |22   |Describe methods for synthesizing the quantitative effect measures of included studies (e.g. risk ratio, mean difference), IF applicable *
+.      |23   |Describe methods for any data transformation needed to make extracted data suitable for analysis (e.g. only sample size range), IF applicable *
+.      |24   |Describe methods for handling shared control groups (common issue in analysis of preclinical studies), IF applicable *
+.      |25   |Describe methods for assessing heterogeneity between individual studies, IF applicable *
+.      |26   |Describe methods for handling effect sizes over multiple time points (e.g. used all time points or latest time point), IF applicable *
+.      |27   |Describe methods for sub-group and sensitivity analysis, IF applicable *
+Results|28   |Report the number of included reports (individual references/publication) included in the review
+.      |a    |Provides a list or table of individual studies with data or references
+.      |29   |Report the number of eligible experiments included in the analysis (eligible animal experiments in individual reports)
+.      |30   |Include a PRISMA flow diagram (or equivalent) of study selection process
 31
 Study characteristics: Report animal species
 32
