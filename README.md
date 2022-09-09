@@ -73,34 +73,30 @@ research, we plan to conduct an umbrella review (a systematic review of systemat
 field. This will help us (1) identify the number of systematic reviews previously conducted, (2)
 summarise the focus of these reviews, and (3) assess the quality of reporting of these reviews.
 
+ * [richelbilderbeek: note to self: living evidence summary is described in Elliott et al. 'Living Systematic Reviews: An Emerging Opportunity to Narrow the Evidence-Practice Gap', 2016]
 
-
-###Search strategy
+### Search strategy
 
 We will search NCBI PubMed, Ovid Embase, and Web of Science to identify systematic reviews of
-animal models which use manipulations of 102 genes for which there is high confidence in a causal
+animal models which use manipulations of 102 genes [richelbilderbeek: how were these genes determined?] for which there is high confidence in a causal
 relationship to ASD. We will place no restriction on publication date or language.
 
 
 
-###Screening and annotation
+### Screening and annotation
 
 Two independent reviewers will screen studies based on full text. Included systematic reviews will
 be annotated for protocol availability, scope of the review, and inclusion criteria of the review. We
 will also assess the reporting of each included review using an adapted version of the PRISMA
 checklist.
 
-
-
-###Data management and reporting
+### Data management and reporting
 
 We will not conduct a meta-analysis. We will present a descriptive summary of data extracted from
 each included systematic review and score each included review against the adapted PRISMA
 checklist.
 
-
-Abstract word count: 213
-
+ * [richelbilderbeek: so the goal is to measure how well the PRISMA checklist is used in systematic reviews?]
 
 ## Keywords
 
@@ -109,16 +105,25 @@ Umbrella review; Evidence synthesis; Autism; Intellectual disability; Animal mod
 ## Strengths and limitations of this study
 
  * To maximise the sensitivity (recall) of our search, we will use broad search terms related to
-ASD or neurodevelopment, in parallel with terms related to individual ASD-related genes,
-and screen studies based on full text to avoid erroneously excluding systematic reviews
-which do not report their inclusion criteria in their abstract.
+   ASD or neurodevelopment, in parallel with terms related to individual ASD-related genes,
+   and screen studies based on full text to avoid erroneously excluding systematic reviews
+   which do not report their inclusion criteria in their abstract.
 
-• We will use a draft extension of the PRISMA guidelines specifically designed for systematic
-reviews of animal studies, to assess the reporting quality of included systematic reviews.
+[richelbilderbeek: reporting inclusing criteria is item 3 on 
+https://www.prisma-statement.org/documents/PRISMA_2020_abstract_checklist.pdf
+and surely it should be detected if this criterium is present/absent.
+I think using the full text to detect this is very cool]
 
-• This extension remains in draft, is not yet an official extension to PRISMA and may be subject
-to change.
+ * We will use a draft extension of the PRISMA guidelines specifically designed for systematic
+   reviews of animal studies, to assess the reporting quality of included systematic reviews.
 
+[richelbilderbeek: I would enjoy to see that draft]
+
+ * This extension remains in draft, is not yet an official extension to PRISMA and may be subject
+   to change.
+
+[richelbilderbeek: what happens to changes in that draft? Will the research be repeated
+each change in that draft?]
 
 ## Abbreviations
 
@@ -151,14 +156,19 @@ development and allow for the development and testing of therapeutics prior to c
 However, despite extensive research, successful translation of laboratory findings to the clinic is rare
 (Pankevich et al., 2013; Silverman et al., 2022). Many factors may contribute to this lack of success
 including target choice, outcome measures insensitive to change, disease stage at which treatment
-is initiated, lack of construct validity and high risk of bias in the preclinical literature.
+is initiated, lack of construct validity and high risk of bias in the preclinical 
+literature [richelbilderbeek: describe bias here, not below].
+
+[richelbilderbeek: I would enjoy to see alpha values, p values and the number of tests done,
+over multiple papers. E.g. if 1 paper find gene X out of 20 to be significant, where
+many others don't, we can expect that that paper's result was due to chance]
 
 The successful translation of laboratory findings to clinical trials is a major challenge in many areas of
 biomedical research (Ioannidis, 2006), and is not limited to neurodevelopmental research. Poor
 methodological quality and high risks of bias – such as lack of randomisation of animals or lack of
 blinded outcome assessment – can also contribute to this translational barrier by compromising the
 internal validity of a study (Krauth et al., 2013). Bias describes a systematic error within a study,
-caused by a variable other than the intervention of interest, that influences the measured outcome.
+caused by a variable other than the intervention of interest, that influences the measured outcome [richelbilderbeek: describe bias above, not here].
 
 By ensuring that a study is internally valid, we can be more confident that – apart from random error
 – findings from the study reflect a true cause-and-effect relationship between the intervention of
@@ -168,9 +178,7 @@ Systematic review provides a well-developed method for identifying areas of poor
 quality or high risk of bias within a research literature. Systematic review is a research method used
 to summarise and appraise all available evidence related to a pre-specified topic (Egger et al., 2001),
 and can identify areas for improvements which might increase internal validity and research rigour
-and reproducibility.
-
-Clinicians have used systematic reviews to inform evidence-based healthcare since the 1980s.
+and reproducibility. Clinicians have used systematic reviews to inform evidence-based healthcare since the 1980s.
 
 Findings from such reviews have led to considerable improvements in the way clinical trials are
 conducted and reported (Plint et al., 2006). Over the last two decades, researchers have adopted
@@ -178,7 +186,9 @@ systematic review methods to summarise and appraise evidence from laboratory ani
 Vries et al., 2014) and have achieved similar success in research improvement (McCann et al., 2016;
 Ramirez et al., 2017).
 
-However, the fundamental differences between clinical and animal studies means that systematic
+However, the fundamental differences [richelbilderbeek: which fundamental differences?
+I would enjoy to at least read the most important for this study. Or give a reference]
+between clinical and animal studies means that systematic
 review methodologies must be appropriately adapted. The development of several tools has been
 instrumental in supporting researchers conducting systematic reviews and meta-analyses of animal
 studies, including checklists for assessing the risk of bias (Hooijmans et al., 2014) and reporting
@@ -189,29 +199,26 @@ systematic reviews is low (Mueller et al., 2014; Hunniford et al., 2021).
 This umbrella review aims to understand (1) how many systematic reviews have been conducted in
 the area of ASD animal research, (2) the aims of these reviews, and (3) the reporting quality of these
 reviews. As a secondary output, this research will help inform the creation of a living evidence
-summary (Hair et al., 2022) of animal research modelling ASD which might inform future systematic
+summary (Hair et al., 2022) [richelbilderbeek: I feel the reference to Hair et al., 2022 
+is invalid. It is 'Elliott, Julian H., et al. "Living systematic reviews: an emerging opportunity to narrow the evidence-practice gap." PLoS medicine 11.2 (2014): e1001603.'
+that describes the term 'living evidence summary' (which is cited by Hair et al.)]
+of animal research modelling ASD which might inform future systematic
 reviews, by ensuring that such a tool is fit for purpose and provides the appropriate resources to
 allow researchers to conduct high quality systematic reviews. We chose to focus on systematic
 reviews summarising research using genetic animal models of any of the 102 ASD-related genes
 identified through large-scale exome sequencing by Satterstrom et al. (2020), as these are all genes
-where there is high confidence in their clinical relevance.
-
-
+where there is high confidence in their clinical relevance [richelbilderbeek: reference?].
 
 ## Methods
 
 To date, we have completed preliminary searches and optimised our search strategy to inform the
 development of this protocol.
 
-
-
 ## Research question
 
 This systematic review of systematic reviews seeks to investigate (1) how many systematic reviews
 have been conducted in this area, (2) what is the aim of each review and what research question
 does it seek to ask, and (3) and what is the quality of reporting of these reviews.
-
-
 
 ## Bibliographic search
 
@@ -228,8 +235,6 @@ We will not restrict searches by publication date or language. If we include stu
 English language full-text, we will use Google Translate to translate the full-text into English. Where
 citations appear in multiple databases, we will remove duplicate versions of the citation using the
 ASySD tool (Hair et al., 2021).
-
-
 
 ## Screening
 
@@ -249,55 +254,52 @@ the full text via interlibrary loan.
 ### Inclusion and exclusion criteria
 
 Studies will be screened according to the criteria outlined below:
-• Inclusion criteria:
-o Study design – systematic reviews or meta-analyses that include animal studies,
-either as a review limited to animal studies or one which includes them alongside
-other study types.
 
-o Animal models – systematic reviews or meta-analyses which include studies
-investigating a genetic animal model based on at least one of the 102 ASD-related
-genes identified by Satterstrom et al. (2020).
+ * Inclusion criteria:
+   * Study design – systematic reviews or meta-analyses that include animal studies,
+     either as a review limited to animal studies or one which includes them alongside
+     other study types.
+   * Animal models – systematic reviews or meta-analyses which include studies
+     investigating a genetic animal model based on at least one of the 102 ASD-related
+     genes identified by Satterstrom et al. (2020).
+   * Other criteria – conference abstracts and preprints.
 
-o Other criteria – conference abstracts and preprints.
-
-• Exclusion criteria:
-o Study design – systematic reviews of meta-analyses which do not include animal
-studies, or systematic reviews which do not search at least two bibliographic
-databases. Other publication types such as non-systematic reviews, letters,
-editorials, or opinion pieces.
-
-o Animal models – systematic reviews or meta-analyses which do not include animal
-models, or where the animals are not models of at least one of the 102 genes
-identified by Satterstrom et al., (2020).
-
-o Other criteria – publications where we cannot access the full-text.
+ * Exclusion criteria:
+   * Study design – systematic reviews of meta-analyses which do not include animal
+     studies, or systematic reviews which do not search at least two bibliographic
+     databases [richelbilderbeek: I would enjoy to hear why this is an exclusion criterium]. Other publication types such as non-systematic reviews, letters,
+     editorials, or opinion pieces.
+   * Animal models – systematic reviews or meta-analyses which do not include animal
+     models, or where the animals are not models of at least one of the 102 genes
+     identified by Satterstrom et al., (2020).
+   * Other criteria – publications where we cannot access the full-text.
 
 We will place no restriction on publication date or language.
-
-
 
 ## Data extraction
 
 Two independent reviewers will conduct data extraction. Discrepancies between reviewer decisions
 will be reconciled by a third independent reviewer. We will carry out data extraction using the SyRF
 platform, and will collect the following information:
-• Bibliographic data
-• Systematic review aims and research question
-• Reporting quality
+ * Bibliographic data
+ * Systematic review aims and research question
+ * Reporting quality
 
 
 ## Bibliographic data
 
 We will extract names of first authors, year of publication, title, and DOI of each included study.
 
-###Systematic review aims and research question
+### Systematic review aims and research question
+
 To understand the purpose and scope of each included systematic review, we will extract the aim of
 each systematic review and the primary research question each review seeks to ask. Additionally, we
 will extract:
-• Whether the review only included animal studies, or also included clinical or in vitro studies
-• Which animal models the review included
-• The total number of studies included in the systematic review
-• The total number of studies investigating relevant animal models
+
+ * Whether the review only included animal studies, or also included clinical or in vitro studies
+ * Which animal models the review included
+ * The total number of studies included in the systematic review
+ * The total number of studies investigating relevant animal models
 
 
 ## Reporting quality
@@ -305,7 +307,8 @@ will extract:
 We will assess the reporting quality of each included systematic review using the 46-point checklist developed by Hunniford et al. (2021). The checklist is adapted from the PRISMA guidelines for
 systematic reviews and is more specific to systematic review of animal studies. However, the
 checklist is not currently an official extension to PRISMA. Although it is not recommended to use the
-general PRISMA guidelines to assess in vivo systematic review reporting quality, the adapted
+general PRISMA guidelines to assess in vivo systematic review reporting 
+quality [richelbilderbeek: I would enjoy a reference to this statement :-) ], the adapted
 checklist for preclinical systematic reviews has been designed for this purpose.
 
 The checklist items are written in full in Appendix 2.
@@ -329,54 +332,22 @@ This protocol will be shared under a Creative Commons by Attribution (CC-BY) lic
 and data generated from this umbrella review will be shared online under a Creative Commons by
 Attribution (CC-BY) license, and the final manuscript will be published open access.
 
-
 ## Appendices
 
-Appendix 1: Final full search terms
+
+### Appendix 1: Final full search terms
+
 Animal models search terms are taken from van der Mierden et al. (2022) and systematic review
 search terms are taken from Langendam et al., (2021).
 
+#### NCBI PubMed search strategy
 
-
-### NCBI PubMed search strategy
-
-#
-
-
-Search terms
-
-1
-
-Autism Spectrum Disorder[MeSH] OR ASD[TiAb] OR autis*[TiAb] OR neurodevelop*[TiAb]
-OR neurodevelop* delay*[TiAb]
-2
-"CHD8"[TiAb] OR "SCN2A"[TiAb] OR "SYNGAP1"[TiAb] OR "ADNP"[TiAb] OR "FOXP1"[TiAb]
-OR "POGZ"[TiAb] OR "ARID1B"[TiAb] OR "SUV420H1"[TiAb] OR "DYRK1A"[TiAb] OR
-"SLC6A1"[TiAb] OR "GRIN2B"[TiAb] OR "PTEN"[TiAb] OR "SHANK3"[TiAb] OR
-"MED13L"[TiAb] OR "GIGYF1"[TiAb] OR "CHD2"[TiAb] OR "ANKRD11"[TiAb] OR
-"ANK2"[TiAb] OR "ASH1L"[TiAb] OR "TLK2"[TiAb] OR "DNMT3A"[TiAb] OR "DEAF1"[TiAb] OR
-"CTNNB1"[TiAb] OR "KDM6B"[TiAb] OR "DSCAM"[TiAb] OR "SETD5"[TiAb] OR
-"KCNQ3"[TiAb] OR "SRPR"[TiAb] OR "KDM5B"[TiAb] OR "WAC"[TiAb] OR "SHANK2"[TiAb]
-OR "NRXN1"[TiAb] OR "TBL1XR1"[TiAb] OR "MYT1L"[TiAb] OR "BCL11A"[TiAb] OR
-"RORB"[TiAb] OR "RAI1"[TiAb] OR "DYNC1H1"[TiAb] OR "DPYSL2"[TiAb] OR "AP2S1"[TiAb]
-OR "KMT2C"[TiAb] OR "PAX5"[TiAb] OR "MKX"[TiAb] OR "GABRB3"[TiAb] OR "SIN3A"[TiAb]
-OR "MBD5"[TiAb] OR "MAP1A"[TiAb] OR "STXBP1"[TiAb] OR "CELF4"[TiAb] OR
-"PHF12"[TiAb] OR "TBR1"[TiAb] OR "PPP2R5D"[TiAb] OR "TM9SF4"[TiAb] OR
-"PHF21A"[TiAb] OR "PRR12"[TiAb] OR "SKI"[TiAb] OR "ASXL3"[TiAb] OR "SPAST"[TiAb] OR
-"SMARCC2"[TiAb] OR "TRIP12"[TiAb] OR "CREBBP"[TiAb] OR "TCF4"[TiAb] OR
-"CACNA1E"[TiAb] OR "GNAI1"[TiAb] OR "TCF20"[TiAb] OR "FOXP2"[TiAb] OR "NSD1"[TiAb]
-OR "TCF7L2"[TiAb] OR "LDB1"[TiAb] OR "EIF3G"[TiAb] OR "PHF2"[TiAb] OR
-"KIAA0232"[TiAb] OR "VEZF1"[TiAb] OR "GFAP"[TiAb] OR "IRF2BPL"[TiAb] OR
-"ZMYND8"[TiAb] OR "SATB1"[TiAb] OR "RFX3"[TiAb] OR "SCN1A"[TiAb] OR "PPP5C"[TiAb]
-OR "TRIM23"[TiAb] OR "TRAF7"[TiAb] OR "ELAVL3"[TiAb] OR "GRIA2"[TiAb] OR
-"LRRC4C"[TiAb] OR "CACNA2D3"[TiAb] OR "NUP155"[TiAb] OR "KMT2E"[TiAb] OR
-"NR3C2"[TiAb] OR "NACC1"[TiAb] OR "PTK7"[TiAb] OR "PPP1R9B"[TiAb] OR "GABRB2"[TiAb]
-OR "HDLBP"[TiAb] OR "TAOK1"[TiAb] OR "UBR1"[TiAb] OR "TEK"[TiAb] OR "KCNMA1"[TiAb]
-OR "CORO1A"[TiAb] OR "HECTD4"[TiAb] OR "NCOA1"[TiAb] OR "DIP2A"[TiAb]
-3
-#1 OR #2
-4
-(animal experimentation[MeSH] OR models, animal[MeSH] OR Animals[Mesh:noexp] OR
+Index|Search terms
+-----|----------------------
+1    |Autism Spectrum Disorder[MeSH] OR ASD[TiAb] OR autis*[TiAb] OR neurodevelop*[TiAb] OR neurodevelop* delay*[TiAb]
+2    |"CHD8"[TiAb] OR "SCN2A"[TiAb] OR "SYNGAP1"[TiAb] OR "ADNP"[TiAb] OR "FOXP1"[TiAb] OR "POGZ"[TiAb] OR "ARID1B"[TiAb] OR "SUV420H1"[TiAb] OR "DYRK1A"[TiAb] OR "SLC6A1"[TiAb] OR "GRIN2B"[TiAb] OR "PTEN"[TiAb] OR "SHANK3"[TiAb] OR "MED13L"[TiAb] OR "GIGYF1"[TiAb] OR "CHD2"[TiAb] OR "ANKRD11"[TiAb] OR "ANK2"[TiAb] OR "ASH1L"[TiAb] OR "TLK2"[TiAb] OR "DNMT3A"[TiAb] OR "DEAF1"[TiAb] OR "CTNNB1"[TiAb] OR "KDM6B"[TiAb] OR "DSCAM"[TiAb] OR "SETD5"[TiAb] OR "KCNQ3"[TiAb] OR "SRPR"[TiAb] OR "KDM5B"[TiAb] OR "WAC"[TiAb] OR "SHANK2"[TiAb] OR "NRXN1"[TiAb] OR "TBL1XR1"[TiAb] OR "MYT1L"[TiAb] OR "BCL11A"[TiAb] OR "RORB"[TiAb] OR "RAI1"[TiAb] OR "DYNC1H1"[TiAb] OR "DPYSL2"[TiAb] OR "AP2S1"[TiAb] OR "KMT2C"[TiAb] OR "PAX5"[TiAb] OR "MKX"[TiAb] OR "GABRB3"[TiAb] OR "SIN3A"[TiAb] OR "MBD5"[TiAb] OR "MAP1A"[TiAb] OR "STXBP1"[TiAb] OR "CELF4"[TiAb] OR "PHF12"[TiAb] OR "TBR1"[TiAb] OR "PPP2R5D"[TiAb] OR "TM9SF4"[TiAb] OR "PHF21A"[TiAb] OR "PRR12"[TiAb] OR "SKI"[TiAb] OR "ASXL3"[TiAb] OR "SPAST"[TiAb] OR "SMARCC2"[TiAb] OR "TRIP12"[TiAb] OR "CREBBP"[TiAb] OR "TCF4"[TiAb] OR "CACNA1E"[TiAb] OR "GNAI1"[TiAb] OR "TCF20"[TiAb] OR "FOXP2"[TiAb] OR "NSD1"[TiAb] OR "TCF7L2"[TiAb] OR "LDB1"[TiAb] OR "EIF3G"[TiAb] OR "PHF2"[TiAb] OR "KIAA0232"[TiAb] OR "VEZF1"[TiAb] OR "GFAP"[TiAb] OR "IRF2BPL"[TiAb] OR "ZMYND8"[TiAb] OR "SATB1"[TiAb] OR "RFX3"[TiAb] OR "SCN1A"[TiAb] OR "PPP5C"[TiAb] OR "TRIM23"[TiAb] OR "TRAF7"[TiAb] OR "ELAVL3"[TiAb] OR "GRIA2"[TiAb] OR "LRRC4C"[TiAb] OR "CACNA2D3"[TiAb] OR "NUP155"[TiAb] OR "KMT2E"[TiAb] OR "NR3C2"[TiAb] OR "NACC1"[TiAb] OR "PTK7"[TiAb] OR "PPP1R9B"[TiAb] OR "GABRB2"[TiAb] OR "HDLBP"[TiAb] OR "TAOK1"[TiAb] OR "UBR1"[TiAb] OR "TEK"[TiAb] OR "KCNMA1"[TiAb] OR "CORO1A"[TiAb] OR "HECTD4"[TiAb] OR "NCOA1"[TiAb] OR "DIP2A"[TiAb]
+3    |#1 OR #2
+4    |(animal experimentation[MeSH] OR models, animal[MeSH] OR Animals[Mesh:noexp] OR
 animal population groups [MeSH] OR chordata[MeSH Terms:noexp] OR vertebrates[MeSH
 Terms:noexp] OR amphibians[MeSH] OR birds[MeSH] OR fishes[MeSH] OR reptiles[MeSH]
 OR mammals[MeSH Terms:noexp] OR primates[MeSH Terms:noexp] OR eutheria[MeSH
@@ -393,8 +364,6 @@ OR animal[tiab] OR animals[tiab] OR mice[tiab] OR in vivo[tiab] OR mouse[tiab] O
 rabbit[tiab] OR rabbits[tiab] OR murine[tiab] OR pig[tiab] OR pigs[tiab] OR dog[tiab] OR
 dogs[tiab] OR bovine[tiab] OR fish[tiab] OR vertebrate[tiab] OR vertebrates[tiab] OR
 cat[tiab] OR cats[tiab] OR rodent[tiab] OR rodents[tiab] OR mammal[tiab] OR
-8
-
 mammals[tiab] OR chicken[tiab] OR chickens[tiab] OR monkey[tiab] OR monkeys[tiab] OR
 sheep[tiab] OR canine[tiab] OR canines[tiab] OR porcine[tiab] OR cattle[tiab] OR bird[tiab]
 OR birds[tiab] OR hamster[tiab] OR hamsters[tiab] OR primate[tiab] OR primates[tiab] OR
@@ -446,8 +415,6 @@ OR donkey[tiab] OR donkeys[tiab] OR bream[tiab] OR char[tiab] OR chars[tiab] OR
 finch[tiab] OR raccoon[tiab] OR raccoons[tiab] OR bothrops[tiab] OR anguilla[tiab] OR
 perch[tiab] OR cricetus[tiab] OR seabird[tiab] OR seabirds[tiab] OR buck[tiab] OR
 bucks[tiab] OR naja[tiab] OR coturnix[tiab] OR salmonids[tiab] OR geese[tiab] OR
-9
-
 minnow[tiab] OR minnows[tiab] OR raptor[tiab] OR raptors[tiab] OR merione[tiab] OR
 meriones[tiab] OR rodentia[tiab] OR elaphus[tiab] OR amniote[tiab] OR amniotes[tiab] OR
 elasmobranch[tiab] OR emu[tiab] OR emus[tiab] OR peromyscus[tiab] OR hominid[tiab] OR
@@ -499,8 +466,6 @@ crocodilian[tiab] OR passer domesticus[tiab] OR sciurus[tiab] OR artiodactyla[ti
 ranidae[tiab] OR corvus[tiab] OR necturus[tiab] OR platypus[tiab] OR canaries[tiab] OR
 bovid[tiab] OR lagopus[tiab] OR trimeresurus[tiab] OR gariepinus[tiab] OR marten[tiab] OR
 martens[tiab] OR drosophilidae[tiab] OR mugil[tiab] OR sunfish[tiab] OR porcellus[tiab] OR
-10
-
 cypriniformes[tiab] OR alouatta[tiab] OR scophthalmus[tiab] OR anser[tiab] OR
 electrophorus[tiab] OR putorius[tiab] OR iguana[tiab] OR iguanas[tiab] OR lama[tiab] OR
 lamas[tiab] OR takifugu[tiab] OR circus[tiab] OR eptesicus[tiab] OR flycatcher[tiab] OR
@@ -552,8 +517,6 @@ dromedaries[tiab] OR alectoris[tiab] OR filly[tiab] OR salamandra[tiab] OR cingu
 OR bitis[tiab] OR grus[tiab] OR ammodytes[tiab] OR macaw[tiab] OR macaws[tiab] OR
 hypoleuca[tiab] OR sapajus[tiab] OR cyprinodontiformes[tiab] OR hippopotamus[tiab] OR
 pelophylax[tiab] OR capybara[tiab] OR capybaras[tiab] OR weasel[tiab] OR weasels[tiab] OR
-11
-
 cairina[tiab] OR cynomys[tiab] OR lutra[tiab] OR cockatoo[tiab] OR cockatoos[tiab] OR
 lachesis[tiab] OR lagomorpha[tiab] OR rupicapra[tiab] OR daboia[tiab] OR orang utan[tiab]
 OR orang utans[tiab] OR platyrrhini[tiab] OR charadriiformes[tiab] OR micrurus[tiab] OR
@@ -605,8 +568,6 @@ walruses[tiab] OR carcharhiniformes[tiab] OR leucoraja[tiab] OR pumpkinseed[tiab
 dosidicus[tiab] OR acipenseriformes[tiab] OR daubentonii[tiab] OR emberizidae[tiab] OR
 gadiformes[tiab] OR hyraxes[tiab] OR stizostedion[tiab] OR wolverine[tiab] OR
 wolverines[tiab] OR lissotriton[tiab] OR acanthurus[tiab] OR centrarchidae[tiab] OR
-12
-
 gloydius[tiab] OR laurasiatheria[tiab] OR limosa[tiab] OR psittacula[tiab] OR leporidae[tiab]
 OR proteidae[tiab] OR zander[tiab] OR zanders[tiab] OR arapaima[tiab] OR bagridae[tiab]
 OR cyprinodontidae[tiab] OR mithun[tiab] OR pandion[tiab] OR jackdaw[tiab] OR
@@ -658,8 +619,6 @@ osteoglossidae[tiab] OR paenungulata[tiab] OR struthioniformes[tiab] OR ferina[t
 sanderling[tiab] OR sanderlings[tiab] OR spheniscidae[tiab] OR cuttlefishes[tiab] OR
 cygnet[tiab] OR dasycneme[tiab] OR gadwall[tiab] OR gadwalls[tiab] OR pelobates
 fuscus[tiab] OR wryneck[tiab] OR wrynecks[tiab] OR afrosoricida[tiab] OR culaea[tiab] OR
-13
-
 dover sole[tiab] OR dover soles[tiab] OR paralichthyidae[tiab] OR passeridae[tiab] OR
 osteolaemus[tiab] OR song thrushes[tiab] OR bluethroat[tiab] OR bluethroats[tiab] OR
 hydrophiidae[tiab] OR megrim[tiab] OR mephitidae[tiab] OR strepsirhini[tiab] OR
@@ -711,15 +670,11 @@ monotremate[tiab] OR monotremates[tiab] OR pempheriformes[tiab] OR perdicinae[ti
 OR presbytini[tiab] OR smegmamorpha[tiab] OR bighead gobies[tiab] OR carangaria
 incertae sedis[tiab] OR coiidae[tiab] OR fivebeard rockling[tiab] OR foulmart[tiab] OR
 foumart[tiab] OR grasskeet[tiab] OR greater pipefishes[tiab] OR ibices[tiab] OR
-14
-
 millionfish[tiab] OR muguliformes[tiab] OR norwegian topknot[tiab] OR peewit[tiab] OR red
 sea sailfin tang[tiab] OR rupicapras[tiab] OR sheatfishes[tiab] OR tompot blennies[tiab] OR
 twait shad[tiab] OR yellow boxfishes[tiab]) NOT medline[sb])
-5
-3 AND 4
-6
-((systematic review[tiab] OR systematic reviews[tiab] OR meta-analyses[tiab] OR meta-
+5|3 AND 4
+6|((systematic review[tiab] OR systematic reviews[tiab] OR meta-analyses[tiab] OR meta-
 analysis[tiab] OR metaanalyses[tiab] OR metaanalysis[tiab] OR systematic literature
 review[tiab] OR comprehensive literature review[tiab] OR Systematic survey[tiab] OR
 systematic overview[tiab] OR "Syst Rev"[Journal] OR meta-analysis[pt] OR Systematically
@@ -731,23 +686,14 @@ searches[tiab] OR literature searching[tiab] OR data collection[tiab]) AND (Pubm
 Medline[tiab] OR Embase[tiab] OR study-selection[tiab] OR selection-criteri*[tiab] OR Web
 of Science[tiab] OR Google[tiab] OR Scopus[tiab] OR BIOSIS[tiab]))) NOT (letter[pt] OR
 newspaper article[pt] OR comment[pt]))
-7
-5 AND 6
+7|5 AND 6
 
+#### Ovid Embase search strategy
 
-Ovid Embase search strategy
-
-#
-
-
-Search terms
-
-1
-
-((ASD OR autis* OR neurodevelop* OR neurodevelop* delay*).ti,ab,kw.)
-
-2
-((CHD8 OR SCN2A OR SYNGAP1 OR ADNP OR FOXP1 OR POGZ OR ARID1B OR SUV420H1 OR
+Index|Search terms
+-----|--------------
+1    |((ASD OR autis* OR neurodevelop* OR neurodevelop* delay*).ti,ab,kw.)
+2    |((CHD8 OR SCN2A OR SYNGAP1 OR ADNP OR FOXP1 OR POGZ OR ARID1B OR SUV420H1 OR
 DYRK1A OR SLC6A1 OR GRIN2B OR PTEN OR SHANK3 OR MED13L OR GIGYF1 OR CHD2 OR
 ANKRD11 OR ANK2 OR ASH1L OR TLK2 OR DNMT3A OR DEAF1 OR CTNNB1 OR KDM6B OR
 DSCAM OR SETD5 OR KCNQ3 OR SRPR OR KDM5B OR WAC OR SHANK2 OR NRXN1 OR
@@ -760,11 +706,8 @@ OR IRF2BPL OR ZMYND8 OR SATB1 OR RFX3 OR SCN1A OR PPP5C OR TRIM23 OR TRAF7 OR
 ELAVL3 OR GRIA2 OR LRRC4C OR CACNA2D3 OR NUP155 OR KMT2E OR NR3C2 OR NACC1
 OR PTK7 OR PPP1R9B OR GABRB2 OR HDLBP OR TAOK1 OR UBR1 OR TEK OR KCNMA1 OR
 CORO1A OR HECTD4 OR NCOA1 OR DIP2A).ti,ab,kw.)
-
-3
-1 OR 2
-4
-(exp animal experiment/ OR exp animal model/ OR exp experimental animal/ OR exp
+3|1 OR 2
+4|(exp animal experiment/ OR exp animal model/ OR exp experimental animal/ OR exp
 transgenic animal/ OR exp male animal/ OR exp female animal/ OR exp juvenile animal/ OR
 animal/ OR chordata/ OR vertebrate/ OR tetrapod/ OR exp fish/ OR amniote/ OR exp
 amphibia/ OR mammal/ OR exp reptile/ OR exp sauropsid/ OR therian/ OR exp monotreme/
@@ -779,8 +722,6 @@ OR fish OR vertebrate OR vertebrates OR cat OR cats OR rodent OR rodents OR mamm
 mammals OR chicken OR chickens OR monkey OR monkeys OR sheep OR canine OR canines
 OR porcine OR cattle OR bird OR birds OR hamster OR hamsters OR primate OR primates
 OR cow OR cows OR chick OR horse OR horses OR avian OR avians OR calf OR swine OR
-15
-
 swines OR xenopus OR turkeys OR bear OR bears OR frog OR frogs OR zebrafish OR goat OR
 goats OR equine OR calves OR poultry OR macaque OR macaques OR mole OR moles OR
 ovine OR lamb OR lambs OR fishes OR diptera OR amphibian OR amphibians OR snake OR
@@ -832,8 +773,6 @@ mackerels OR tamarin OR tamarins OR ostrich OR anolis OR vervet OR vervets OR wa
 OR glareolus OR beaver OR beavers OR dromedary OR catus OR killifish OR pimephales OR
 promelas OR aotus OR phoca OR panda OR pandas OR porpoise OR porpoises OR myotis OR
 yak OR yaks OR agkistrodon OR vipera OR otter OR otters OR turbot OR turbots OR
-16
-
 squamate OR carnivora OR mullet OR mullets OR hawk OR hawks OR taeniopygia OR
 seahorse OR seahorses OR "poecilia reticulata" OR falcon OR falcons OR prosimian OR
 prosimians OR parus OR perca OR fingerling OR fingerlings OR antelope OR antelopes OR
@@ -885,8 +824,6 @@ salamandra OR cingulata OR bitis OR grus OR ammodytes OR macaw OR macaws OR
 hypoleuca OR sapajus OR cyprinodontiformes OR hippopotamus OR pelophylax OR
 capybara OR capybaras OR weasel OR weasels OR cairina OR cynomys OR lutra OR cockatoo
 OR cockatoos OR lachesis OR lagomorpha OR rupicapra OR daboia OR "orang utan" OR
-17
-
 "orang utans" OR platyrrhini OR charadriiformes OR micrurus OR psittaciformes OR spalax OR loris OR mustelidae OR sylvilagus OR vitticeps OR cockatiel OR mustelus OR cottus OR
 erythrocebus OR dipodomys OR platessa OR callicebus OR loricariidae OR catostomus OR
 cuneata OR cyanistes OR cyprinodon OR sigmodontinae OR elasmobranchii OR trichechus
@@ -936,8 +873,6 @@ dermoptera OR "european hake" OR "european hakes" OR gerbillinae OR banteng OR
 hartebeest OR hartebeests OR hogget OR haematopus OR "anguis fragilis" OR "grey heron"
 OR "grey herons" OR "blue whiting" OR "blue whitings" OR furnariidae OR macrovipera OR
 esocidae OR lapwing OR lapwings OR mylopharyngodon OR wallabia OR beloniformes OR
-18
-
 potoroo OR potoroos OR "athene noctua" OR pleuronectidae OR bushbabies OR
 muscicapidae OR alligatoridae OR fuligula OR "bush baby" OR guineafowl OR spoonbill OR
 spoonbills OR viverridae OR catostomidae OR zebrafishes OR ibexes OR vendace OR
@@ -986,8 +921,6 @@ hound" OR "starry smooth-hounds" OR whitefishes OR cuniculidae OR "european spra
 whitethroats" OR gavialidae OR "grey gurnard" OR "grey gurnards" OR lateolabracidae OR
 rheiformes OR "tub gurnard" OR "tub gurnards" OR "common chiffchaff" OR "common chiffchaffs" OR garfishes OR "lesser whitethroat" OR "lesser whitethroats" OR myoxidae OR
 seabasses OR spariformes OR umbridae OR "yellow boxfish" OR anabantiformes OR aotidae
-19
-
 OR "common bleak" OR "common bleaks" OR "common rudd" OR "common rudds" OR
 "greater pipefish" OR hapale OR nandiniidae OR "stone loaches" OR whinchat OR whinchats
 OR acanthuriformes OR "brotula barbata" OR "common ling" OR "common lings" OR
@@ -999,33 +932,23 @@ perdicinae OR presbytini OR smegmamorpha OR "bighead gobies" OR "carangaria ince
 sedis" OR coiidae OR "fivebeard rockling" OR foulmart OR foumart ORgrasskeet OR "greater
 pipefishes" OR ibices OR millionfish OR muguliformes OR "norwegian topknot" OR peewit
 OR "red sea sailfin tang" OR rupicapras OR sheatfishes OR "tompot blennies" OR "twait shad" OR "yellow boxfishes").ti,ab,kw.
-
-5
-3 AND 4
-6
-(("systematic review" OR "meta-analysis" OR metaanalysis).ti. OR (((meta-analyses OR
+5|3 AND 4
+6|(("systematic review" OR "meta-analysis" OR metaanalysis).ti. OR (((meta-analyses OR
 meta-analysis OR metaanalyses OR metaanalysis OR "systematic overview").ti,ab,de. OR
 "systematic reviews".jt. OR "meta analysis".jt. OR "Meta synthesis".ti,ab,de. OR
 (Systematic* adj2 (Review OR literature OR Reviews OR survey OR search*)).ti,ab,de.) and
 ("Data collection" OR "Data extraction" OR "Inclusion Criteria" OR "Exclusion criteria" OR
 Search* OR Literature OR Pubmed OR Medline OR Embase OR selection OR Web of Science
 OR Google OR Scopus OR BIOSIS).ti,ab,de.))
-7
-5 AND 6
+7|5 AND 6
 
 
-## Web of Science search strategy
+#### Web of Science search strategy
 
-#
-
-
-### Search terms
-
-1
-
-(TS=(ASD OR autis* OR neurodevelop* OR neurodevelop* delay*))
-2
-(TS=( CHD8 OR SCN2A OR SYNGAP1 OR ADNP OR FOXP1 OR POGZ OR ARID1B OR SUV420H1
+Index|Search terms
+-----|---------------------
+1    |(TS=(ASD OR autis* OR neurodevelop* OR neurodevelop* delay*))
+2    |(TS=( CHD8 OR SCN2A OR SYNGAP1 OR ADNP OR FOXP1 OR POGZ OR ARID1B OR SUV420H1
 OR DYRK1A OR SLC6A1 OR GRIN2B OR PTEN OR SHANK3 OR MED13L OR GIGYF1 OR CHD2
 OR ANKRD11 OR ANK2 OR ASH1L OR TLK2 OR DNMT3A OR DEAF1 OR CTNNB1 OR KDM6B
 OR DSCAM OR SETD5 OR KCNQ3 OR SRPR OR KDM5B OR WAC OR SHANK2 OR NRXN1 OR
@@ -1038,10 +961,8 @@ OR IRF2BPL OR ZMYND8 OR SATB1 OR RFX3 OR SCN1A OR PPP5C OR TRIM23 OR TRAF7 OR
 ELAVL3 OR GRIA2 OR LRRC4C OR CACNA2D3 OR NUP155 OR KMT2E OR NR3C2 OR NACC1
 OR PTK7 OR PPP1R9B OR GABRB2 OR HDLBP OR TAOK1 OR UBR1 OR TEK OR KCNMA1 OR
 CORO1A OR HECTD4 OR NCOA1 OR DIP2A))
-3
-1 OR 2
-4
-TS=(rat OR rats OR animal OR animals OR mice OR "in vivo" OR mouse OR rabbit OR rabbits
+3    |1 OR 2
+4    |TS=(rat OR rats OR animal OR animals OR mice OR "in vivo" OR mouse OR rabbit OR rabbits
 OR murine OR pig OR pigs OR dog OR dogs OR bovine OR fish OR vertebrate OR
 vertebrates OR cat OR cats OR rodent OR rodents OR mammal OR mammals OR
 chicken OR chickens OR monkey OR monkeys OR sheep OR canine OR canines OR porcine
@@ -1052,8 +973,6 @@ goat OR goats OR equine OR calves OR poultry OR macaque OR macaques OR mole OR
 moles OR ovine OR lamb OR lambs OR fishes OR diptera OR amphibian OR amphibians
 OR snake OR snakes OR ruminant OR ruminants OR hen OR hens OR piglet OR
 piglets OR feline OR felines OR simian OR simians OR laevis OR trout OR trouts OR
-20
-
 teleost OR teleosts OR salmon OR salmons OR seal OR seals OR bull OR bulls OR
 ewe OR ewes OR hedgehog OR hedgehogs OR macaca OR macacas OR proteus OR
 pigeon ORpigeons OR bat OR bats OR duck OR ducks OR chimpanzee OR chimpanzees OR
@@ -1105,8 +1024,6 @@ myotis OR yak OR yaks OR agkistrodon OR vipera OR otter OR otters OR turbot OR t
 OR squamate OR carnivora OR mullet OR mullets OR hawk OR hawks OR taeniopygia OR
 seahorse OR seahorses OR "poecilia reticulata" OR falcon OR falcons OR prosimian OR
 prosimians OR parus OR perca OR fingerling OR fingerlings OR antelope OR antelopes
-21
-
 OR tupaia OR passeriformes OR sepia OR saguinus OR coyote OR coyotes OR pongo OR
 meleagris OR reptilia OR lepus OR psittacine OR hagfish OR warbler OR warblers OR "russell
 s viper" OR "russell s vipers" OR smolt OR smolts OR budgerigar OR sardine OR sardines OR
@@ -1158,8 +1075,6 @@ capybara OR capybaras OR weasel OR weasels OR cairina OR cynomys OR lutra OR
 cockatoo OR cockatoos OR lachesis OR lagomorpha OR rupicapra OR daboia OR
 "orang utan" OR "orang utans" OR platyrrhini OR charadriiformes OR micrurus OR
 psittaciformes OR spalax OR loris OR mustelidae OR sylvilagus OR vitticeps OR
-22
-
 cockatiel OR mustelus OR cottus OR erythrocebus OR dipodomys OR platessa OR
 callicebus OR loricariidae OR catostomus OR cuneata OR cyanistes OR cyprinodon OR
 sigmodontinae OR elasmobranchii OR trichechus OR sauropsid OR xenarthra OR
@@ -1209,8 +1124,6 @@ colobinae OR lophocebus OR atelidae OR cottidae OR leucopsis OR acanthuridae OR
 didelphimorphia OR elver OR elvers OR lapponica OR dermoptera OR "european
 hake" OR "european hakes" OR gerbillinae OR banteng OR hartebeest OR hartebeests OR
 hogget OR haematopus OR "anguis fragilis" OR "grey heron" OR "grey herons" OR "blue whiting" OR "blue whitings" OR furnariidae OR macrovipera OR esocidae OR lapwing
-23
-
 OR lapwings OR mylopharyngodon OR wallabia OR beloniformes OR potoroo OR potoroos
 OR "athene noctua" OR pleuronectidae OR bushbabies OR muscicapidae OR
 alligatoridae OR fuligula OR "bush baby" OR guineafowl OR spoonbill OR spoonbills
@@ -1258,9 +1171,7 @@ scophthalmidae OR "starry smooth-hound" OR "starry smooth-hounds" OR whitefishes
 OR cuniculidae OR "european sprat" OR "european sprats" OR "rosy bitterling" OR
 "rosy bitterlings" OR "common dace" OR "common daces" OR "lesser weever" OR "lesser weevers" OR scaldfish OR "water rail" OR "water rails" OR alouattinae OR
 centrarchiformes OR "common whitethroat" OR "common whitethroats" OR gavialidae
-OR "grey gurnard" OR "greygurnards" OR lateolabracidae OR rheiformes OR "tub 24
-
-gurnard" OR "tub gurnards" OR "common chiffchaff" OR "common chiffchaffs" OR
+OR "grey gurnard" OR "greygurnards" OR lateolabracidae OR rheiformes OR "tub gurnard" OR "tub gurnards" OR "common chiffchaff" OR "common chiffchaffs" OR
 garfishes OR "lesser whitethroat" OR "lesser whitethroats" OR myoxidae OR seabasses OR spariformes OR umbridae OR "yellow boxfish" OR anabantiformes OR aotidae OR
 "common bleak" OR "common bleaks" OR "common rudd" OR "common rudds" OR
 "greater pipefish" OR hapale OR nandiniidae OR "stone loaches" OR whinchat OR
@@ -1274,58 +1185,26 @@ foumart OR grasskeet OR "greater pipefishes" OR ibices OR millionfish OR
 muguliformes OR "norwegian topknot" OR peewit OR "red sea sailfin tang" OR
 rupicapras OR sheatfishes OR "tompot blennies" OR "twait shad" OR "yellow
 boxfishes")
-5
-3 AND 4
-6
-(TS=(("literature search" OR "literature searches" OR "literature searching" OR "data collection" OR "electronic-database*" OR "databases-search*" OR "electronic-search*" OR
+5    |3 AND 4
+6    |(TS=(("literature search" OR "literature searches" OR "literature searching" OR "data collection" OR "electronic-database*" OR "databases-search*" OR "electronic-search*" OR
 "comprehensive-search*" OR "literature search" OR "literature searches" OR "literature searching" OR "data collection") AND (Pubmed OR Medline OR Embase OR selection OR
 Web of Science OR Google OR Scopus OR BIOSIS)))
-7
-5 AND 6
+7    |5 AND 6
 
+## Appendix 2: Checklist to assess the state of reporting within preclinical systematic reviews 
 
-## Appendix 2: Checklist to assess the state of reporting within preclinical systematic reviews This checklist is taken from Hunniford et al., 2021.
+This checklist is taken from Hunniford et al., 2021.
 
+Section|Index|Item
+-------|-----|--------
+Title  |1    |Identify the report as systematic review in title
+.      |2    |Identify that the report contains animal data in title (preclinical, in vivo or synonym)
+Intro  |3    |Describe the human condition being modelled (e.g. describe what is already known)
+.      |4    |Describe the biological rationale for testing the intervention (e.g. how would the intervention affect the condition)
+.      |5    |Provide an explicit statement of the question(s) the review addresses (specify the main objectives of the review, ideally in PICO format)
+Methods|6    |Indicate whether a review protocol was registered a priori
+.      |a    |Where can the protocol be accessed and indicate the name of the protocol registry OR state that it is not available
 
-
-Section
-
-#
-Item
-
-
-Title
-
-1
-
-Identify the report as systematic review in title
-2
-Identify that the report contains animal data in title (preclinical, in vivo or
-synonym)
-
-
-Intro
-
-3
-
-Describe the human condition being modelled (e.g. describe what is already
-known)
-4
-Describe the biological rationale for testing the intervention (e.g. how would
-the intervention affect the condition)
-5
-Provide an explicit statement of the question(s) the review addresses (specify
-the main objectives of the review, ideally in PICO format)
-
-
-### Methods
-
-6
-
-Indicate whether a review protocol was registered a priori
-a
-Where can the protocol be accessed and indicate the name of the protocol
-registry OR state that it is not available
 b
 Indicate any deviations from the protocol OR that there were no deviations
 7
@@ -1479,7 +1358,7 @@ meta-analysis in context. John Wiley & Sons, 2008.
 
 Hair K, Bahor Z, Macleod M, Liao J, Sena ES. The Automated Systematic Search Deduplicator (ASySD):
 a rapid, open-source, interoperable tool to remove duplicate citations in biomedical systematic
-reviews. bioRxiv [PREPRINT]. 2021.05.04.442412. doi: https://doi.org/10.1101/2021.05.04.442412
+reviews. bioRxiv [PREPRINT]. 2021.05.04.442412. doi: [https://doi.org/10.1101/2021.05.04.442412](https://doi.org/10.1101/2021.05.04.442412)
 Hair K, Wilson E, Wong C, Tsang A, Macleod MR, Bannach-Brown A. Systematic Online Living
 Evidence Summaries: emerging tools to accelerate evidence synthesis. Metaarxiv. 2022 Aug 18; doi:
 https://doi.org/10.31222/osf.io/nbe5q
@@ -1543,7 +1422,6 @@ Anim. 2022 Jun;56(3):279-286. doi: 10.1177/00236772211045485. Epub 2021 Sep 24. 
 34559023; PMCID: PMC9194806.
 
 Wilson E, Florenz AC, Maclean D, Ghanawi J, McCann S, Brennan PM, Liao J, Sena ES, Macleod MR.
-
 2022. “Screening for in Vitro Systematic Reviews: A Comparison of Screening Methods and Training
 of a Machine Learning Classifier.” MetaArXiv. August 25. doi:10.31222/osf.io/t8cak.
 
