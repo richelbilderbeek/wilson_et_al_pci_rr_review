@@ -490,84 +490,92 @@ Other  |45|Include the funding source(s) of the systematic review
 
 ## References
 
-Bahor Z, Liao J, Currie G, et al. Development and uptake of an online systematic review platform: the
-early years of the CAMARADES Systematic Review Facility (SyRF)BMJ Open Science 2021;5:e100103.
+ * Bahor Z, Liao J, Currie G, et al. Development and uptake of an online systematic review platform: the
+   early years of the CAMARADES Systematic Review Facility (SyRF)BMJ Open Science 2021;5:e100103.
+   DOI: 10.1136/bmjos-2020-100103
 
-DOI: 10.1136/bmjos-2020-100103
-de Vries RBM, Hooijmans CR, Langendam MW, van Luijk J, Leenaars M, Ritskes-Hoitinga M, Wever
-KE. A protocol format for the preparation, registration and publication of systematic reviews of
-animal intervention studies. Evidence-based Preclinical Medicine. 2015;2: 1-9 e00007. DOI:
-10.1002/ebm2.7
-de Vries RB, Wever KE, Avey MT, Stephens ML, Sena ES, Leenaars M. The usefulness of systematic
-reviews of animal experiments for the design of preclinical and clinical studies. ILAR J. 2014; 55
-(3):427–37. DOI: 10.1093/ilar/ilu043
-Egger, Matthias, George Davey Smith, and Douglas Altman, eds. Systematic reviews in health care:
-meta-analysis in context. John Wiley & Sons, 2008.
+ * de Vries RBM, Hooijmans CR, Langendam MW, van Luijk J, Leenaars M, Ritskes-Hoitinga M, Wever
+   KE. A protocol format for the preparation, registration and publication of systematic reviews of
+   animal intervention studies. Evidence-based Preclinical Medicine. 2015;2: 1-9 e00007. DOI:
+   10.1002/ebm2.7
 
-Hair K, Bahor Z, Macleod M, Liao J, Sena ES. The Automated Systematic Search Deduplicator (ASySD):
-a rapid, open-source, interoperable tool to remove duplicate citations in biomedical systematic
-reviews. bioRxiv [PREPRINT]. 2021.05.04.442412. doi: [https://doi.org/10.1101/2021.05.04.442412](https://doi.org/10.1101/2021.05.04.442412)
-Hair K, Wilson E, Wong C, Tsang A, Macleod MR, Bannach-Brown A. Systematic Online Living
-Evidence Summaries: emerging tools to accelerate evidence synthesis. Metaarxiv. 2022 Aug 18; doi:
-https://doi.org/10.31222/osf.io/nbe5q
-Hooijmans CR, Rovers MM, de Vries RB, Leenaars M, Ritskes-Hoitinga M, Langendam MW. SYRCLE's
-risk of bias tool for animal studies. BMC Med Res Methodol. 2014 Mar 26;14:43. doi: 10.1186/1471-
-2288-14-43
-Hunniford VT, Montroy J, Fergusson DA, Avey MT, Wever KE, McCann SK, Foster M, Fox G, Lafreniere
-M, Ghaly M, Mannell S, Godwinska K, Gentles A, Selim S, MacNeil J, Sikora L, Sena ES, Page MJ,
-Macleod M, Moher D, Lalu MM. Epidemiology and reporting characteristics of preclinical systematic
-reviews. PLoS Biol. 2021 May 5;19(5):e3001177. DOI: 10.1371/journal.pbio.3001177
-Ioannidis JP. Evolution and translation of research findings: from bench to where? PLoS Clin Trials.
+ * de Vries RB, Wever KE, Avey MT, Stephens ML, Sena ES, Leenaars M. The usefulness of systematic
+   reviews of animal experiments for the design of preclinical and clinical studies. ILAR J. 2014; 55
+   (3):427–37. DOI: 10.1093/ilar/ilu043
 
-2006;1(7):e36. DOI: 10.1371/journal.pctr.0010036
-Krauth D, Woodruff TJ, Bero L. Instruments for assessing risk of bias and other methodological
-criteria of published animal studies: a systematic review. Environ Health Perspect. 2013;121(9):985-
-992. DOI: 10.1289/ehp.1206389
-Langendam MW, Magnuson K, Williams AR, Walker VK, Howdeshell KL, Rooney AA, Hooijmans CR.
+ * Egger, Matthias, George Davey Smith, and Douglas Altman, eds. Systematic reviews in health care:
+   meta-analysis in context. John Wiley & Sons, 2008.
 
-Developing a database of systematic reviews of animal studies. Regulatory Toxicology and
-Pharmacology. 2021;123:104940. DOI: 10.1016/j.yrtph.2021.104940
-Macleod MR, O'Collins T, Howells DW, Donnan GA. Pooling of animal experimental data reveals
-influence of study design and publication bias. Stroke. 2004 May;35(5):1203-8. DOI:
-10.1161/01.STR.0000125719.25853.20
-McCann S.K., et al. Systematic Review and Meta-Analysis of the Efficacy of Interleukin-1 Receptor
-Antagonist in Animal Models of Stroke: an Update. Transl. Stroke Res. 2016;7:395-406. DOI:
-10.1007/s12975-016-0489-z
+ * Hair K, Bahor Z, Macleod M, Liao J, Sena ES. The Automated Systematic Search Deduplicator (ASySD):
+   a rapid, open-source, interoperable tool to remove duplicate citations in biomedical systematic
+   reviews. bioRxiv [PREPRINT]. 2021.05.04.442412. doi: [https://doi.org/10.1101/2021.05.04.442412](https://doi.org/10.1101/2021.05.04.442412)
 
-Mueller KF, Briel M, Strech D, Meerpohl JJ, Lang B, Motschall E, et al. Dissemination bias in
-systematic reviews of animal research: a systematic review. PLoS ONE. 2014; 9(12):e116016. Epub
-2014/12/30. DOI: 10.1371/journal.pone.0116016
-Pankevich, Diana E., Theresa M. Wizemann, and Bruce M. Altevogt. Improving the utility and
-translation of animal models for nervous system disorders: workshop summary. National Academies
-Press, 2013.
+ * Hair K, Wilson E, Wong C, Tsang A, Macleod MR, Bannach-Brown A. Systematic Online Living
+   Evidence Summaries: emerging tools to accelerate evidence synthesis. Metaarxiv. 2022 Aug 18; doi:
+   https://doi.org/10.31222/osf.io/nbe5q
 
-Plint AC, Moher D, Morrison A, Schulz K, Altman DG, Hill C, Gaboury I. Does the CONSORT checklist
-improve the quality of reports of randomised controlled trials? A systematic review. Med J Aust.
+ * Hooijmans CR, Rovers MM, de Vries RB, Leenaars M, Ritskes-Hoitinga M, Langendam MW. SYRCLE's
+   risk of bias tool for animal studies. BMC Med Res Methodol. 2014 Mar 26;14:43. doi: 10.1186/1471-
+   2288-14-43
 
-2006 Sep 4;185(5):263-7. doi: 10.5694/j.1326-5377.2006.tb00557.x
-Ramirez, F.D., et al. Methodological Rigor in Preclinical Cardiovascular Studies. Circ. Res.
+ * Hunniford VT, Montroy J, Fergusson DA, Avey MT, Wever KE, McCann SK, Foster M, Fox G, Lafreniere
+   M, Ghaly M, Mannell S, Godwinska K, Gentles A, Selim S, MacNeil J, Sikora L, Sena ES, Page MJ,
+   Macleod M, Moher D, Lalu MM. Epidemiology and reporting characteristics of preclinical systematic
+   reviews. PLoS Biol. 2021 May 5;19(5):e3001177. DOI: 10.1371/journal.pbio.3001177
 
-2017;120:1916-1926. DOI: 10.1161/CIRCRESAHA.117.310628
-Satterstrom FK, Kosmicki JA, Wang J, Breen MS, De Rubeis S, An JY, Peng M, Collins R, Grove J, Klei L,
-Stevens C, Reichert J, Mulhern MS, Artomov M, Gerges S, Sheppard B, Xu X, Bhaduri A, Norman U,
-Brand H, Schwartz G, Nguyen R, Guerrero EE, Dias C; Autism Sequencing Consortium; iPSYCH-Broad
-Consortium, Betancur C, Cook EH, Gallagher L, Gill M, Sutcliffe JS, Thurm A, Zwick ME, Børglum AD,
-State MW, Cicek AE, Talkowski ME, Cutler DJ, Devlin B, Sanders SJ, Roeder K, Daly MJ, Buxbaum JD.
+ * Ioannidis JP. Evolution and translation of research findings: from bench to where? PLoS Clin Trials.
+   2006;1(7):e36. DOI: 10.1371/journal.pctr.0010036
 
-Large-Scale Exome Sequencing Study Implicates Both Developmental and Functional Changes in the
-Neurobiology of Autism. Cell. 2020 Feb 6;180(3):568-584.e23. doi: 10.1016/j.cell.2019.12.036. Epub
-2020 Jan 23. PMID: 31981491; PMCID: PMC7250485.
+ * Krauth D, Woodruff TJ, Bero L. Instruments for assessing risk of bias and other methodological
+   criteria of published animal studies: a systematic review. Environ Health Perspect. 2013;121(9):985-
+   992. DOI: 10.1289/ehp.1206389
 
-Silverman JL, Thurm A, Ethridge SB, Soller MM, Petkova SP, Abel T, Bauman MD, Brodkin ES, Harony-
-Nicolas H, Wöhr M, Halladay A. Reconsidering animal models used to study autism spectrum
-disorder: Current state and optimizing future. Genes Brain Behav. 2022 Jun;21(5):e12803. doi:
-10.1111/gbb.12803. Epub 2022 Mar 14. PMID: 35285132; PMCID: PMC9189007.
+ * Langendam MW, Magnuson K, Williams AR, Walker VK, Howdeshell KL, Rooney AA, Hooijmans CR.
+   Developing a database of systematic reviews of animal studies. Regulatory Toxicology and
+   Pharmacology. 2021;123:104940. DOI: 10.1016/j.yrtph.2021.104940
 
-van der Mierden S, Hooijmans CR, Tillema AH, Rehn S, Bleich A, Leenaars CH. Laboratory animals
-search filter for different literature databases: PubMed, Embase, Web of Science and PsycINFO. Lab
-Anim. 2022 Jun;56(3):279-286. doi: 10.1177/00236772211045485. Epub 2021 Sep 24. PMID:
-34559023; PMCID: PMC9194806.
+ * Macleod MR, O'Collins T, Howells DW, Donnan GA. Pooling of animal experimental data reveals
+   influence of study design and publication bias. Stroke. 2004 May;35(5):1203-8. DOI:
+   10.1161/01.STR.0000125719.25853.20
 
-Wilson E, Florenz AC, Maclean D, Ghanawi J, McCann S, Brennan PM, Liao J, Sena ES, Macleod MR.
-2022. “Screening for in Vitro Systematic Reviews: A Comparison of Screening Methods and Training
-of a Machine Learning Classifier.” MetaArXiv. August 25. doi:10.31222/osf.io/t8cak.
+ * McCann S.K., et al. Systematic Review and Meta-Analysis of the Efficacy of Interleukin-1 Receptor
+   Antagonist in Animal Models of Stroke: an Update. Transl. Stroke Res. 2016;7:395-406. DOI:
+   10.1007/s12975-016-0489-z
+
+ * Mueller KF, Briel M, Strech D, Meerpohl JJ, Lang B, Motschall E, et al. Dissemination bias in
+   systematic reviews of animal research: a systematic review. PLoS ONE. 2014; 9(12):e116016. Epub
+   2014/12/30. DOI: 10.1371/journal.pone.0116016
+
+ * Pankevich, Diana E., Theresa M. Wizemann, and Bruce M. Altevogt. Improving the utility and
+   translation of animal models for nervous system disorders: workshop summary. National Academies
+   Press, 2013.
+
+ * Plint AC, Moher D, Morrison A, Schulz K, Altman DG, Hill C, Gaboury I. Does the CONSORT checklist
+   improve the quality of reports of randomised controlled trials? A systematic review. Med J Aust.
+   2006 Sep 4;185(5):263-7. doi: 10.5694/j.1326-5377.2006.tb00557.x
+
+ * Ramirez, F.D., et al. Methodological Rigor in Preclinical Cardiovascular Studies. Circ. Res.
+   2017;120:1916-1926. DOI: 10.1161/CIRCRESAHA.117.310628
+
+ * Satterstrom FK, Kosmicki JA, Wang J, Breen MS, De Rubeis S, An JY, Peng M, Collins R, Grove J, Klei L,
+   Stevens C, Reichert J, Mulhern MS, Artomov M, Gerges S, Sheppard B, Xu X, Bhaduri A, Norman U,
+   Brand H, Schwartz G, Nguyen R, Guerrero EE, Dias C; Autism Sequencing Consortium; iPSYCH-Broad
+   Consortium, Betancur C, Cook EH, Gallagher L, Gill M, Sutcliffe JS, Thurm A, Zwick ME, Børglum AD,
+   State MW, Cicek AE, Talkowski ME, Cutler DJ, Devlin B, Sanders SJ, Roeder K, Daly MJ, Buxbaum JD.
+   Large-Scale Exome Sequencing Study Implicates Both Developmental and Functional Changes in the
+   Neurobiology of Autism. Cell. 2020 Feb 6;180(3):568-584.e23. doi: 10.1016/j.cell.2019.12.036. Epub
+   2020 Jan 23. PMID: 31981491; PMCID: PMC7250485.
+
+ * Silverman JL, Thurm A, Ethridge SB, Soller MM, Petkova SP, Abel T, Bauman MD, Brodkin ES, Harony-
+   Nicolas H, Wöhr M, Halladay A. Reconsidering animal models used to study autism spectrum
+   disorder: Current state and optimizing future. Genes Brain Behav. 2022 Jun;21(5):e12803. doi:
+   10.1111/gbb.12803. Epub 2022 Mar 14. PMID: 35285132; PMCID: PMC9189007.
+
+ * van der Mierden S, Hooijmans CR, Tillema AH, Rehn S, Bleich A, Leenaars CH. Laboratory animals
+   search filter for different literature databases: PubMed, Embase, Web of Science and PsycINFO. Lab
+   Anim. 2022 Jun;56(3):279-286. doi: 10.1177/00236772211045485. Epub 2021 Sep 24. PMID:
+   34559023; PMCID: PMC9194806.
+
+ * Wilson E, Florenz AC, Maclean D, Ghanawi J, McCann S, Brennan PM, Liao J, Sena ES, Macleod MR.
+   2022. “Screening for in Vitro Systematic Reviews: A Comparison of Screening Methods and Training
+   of a Machine Learning Classifier.” MetaArXiv. August 25. doi:10.31222/osf.io/t8cak.
